@@ -1,3 +1,3 @@
-module st
+module object
 
 go 1.19
